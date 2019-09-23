@@ -8,3 +8,6 @@ git push --set-upstream origin master
 
 
 echo "*.class" >> .gitignore : il va ignorer tout les fichier .class
+
+
+git rm nomFichier.extention , sans deleted le fichier manuellement, ça va le faire direct
