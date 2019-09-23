@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "msg"
+
+
+git remote set-url origin https://github.com/<username>/<reponame> 
+git push --set-upstream origin master
